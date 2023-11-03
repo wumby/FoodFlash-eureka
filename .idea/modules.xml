@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/eureka.iml" filepath="$PROJECT_DIR$/.idea/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FoodFlash-eureka.iml" filepath="$PROJECT_DIR$/.idea/FoodFlash-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
     </modules>
   </component>
 </project>
